@@ -1,0 +1,332 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tegae++\n"
+"POT-Creation-Date: 2019-11-01 13:53+0300\n"
+"PO-Revision-Date: 2019-11-01 14:18+0300\n"
+"Language-Team: gae\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 2.0.7\n"
+"Last-Translator: gae <ar8200@bk.ru>\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Language: ru\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: tegae(new)\Tegae.py:77 tegae(new)\Tegae.py:159 tegae(new)\Tegae.py:412
+#: tegae(new)\Tegae.py:461 tegae(new)\Tegae.py:962 tegae(new)\Tegae.py:968
+msgid "Error"
+msgstr "Ошибка"
+
+#: tegae(new)\Tegae.py:77 tegae(new)\Tegae.py:412
+msgid "File is damaged or does not contain text"
+msgstr "Файл повреждён или не содержет текст"
+
+#: tegae(new)\Tegae.py:96 tegae(new)\Tegae.py:280
+msgid "About program"
+msgstr "О программе"
+
+#: tegae(new)\Tegae.py:174 tegae(new)\Tegae.py:572
+msgid "New file"
+msgstr "Новый файл"
+
+#: tegae(new)\Tegae.py:177 tegae(new)\Tegae.py:189
+msgid "Open"
+msgstr "Открыть"
+
+#: tegae(new)\Tegae.py:182 tegae(new)\Tegae.py:451
+msgid "Open file by link"
+msgstr "Открыть файл по ссылке"
+
+#: tegae(new)\Tegae.py:191 tegae(new)\Tegae.py:347
+msgid "Save"
+msgstr "Сохранить"
+
+#: tegae(new)\Tegae.py:195
+msgid "Save as"
+msgstr "Сохранить как"
+
+#: tegae(new)\Tegae.py:199
+msgid "Print"
+msgstr "Напечатать"
+
+#: tegae(new)\Tegae.py:201
+msgid "File"
+msgstr "Файл"
+
+#: tegae(new)\Tegae.py:205
+msgid "Insert tab"
+msgstr "Вставить табуляцию"
+
+#: tegae(new)\Tegae.py:214
+msgid "Delete tab"
+msgstr "Удалить табуляцию"
+
+#: tegae(new)\Tegae.py:219
+msgid "Indent"
+msgstr "Отступ"
+
+#: tegae(new)\Tegae.py:222
+msgid "Comment out a line"
+msgstr "Закомментировать строку"
+
+#: tegae(new)\Tegae.py:226
+msgid "Uncomment the line"
+msgstr "Раскомментировать строку"
+
+#: tegae(new)\Tegae.py:228
+msgid "Commenting"
+msgstr "Комментирование"
+
+#: tegae(new)\Tegae.py:231 tegae(new)\Tegae.py:239
+msgid "Search"
+msgstr "Найти"
+
+#: tegae(new)\Tegae.py:234
+msgid "Search further"
+msgstr "Искать далее"
+
+#: tegae(new)\Tegae.py:237
+msgid "Search earlier"
+msgstr "Искать ранее"
+
+#: tegae(new)\Tegae.py:241 tegae(new)\Tegae.py:472
+msgid "Go To"
+msgstr "Перейти к"
+
+#: tegae(new)\Tegae.py:244 tegae(new)\Tegae.py:572 tegae(new)\Tegae.py:601
+msgid "Edit"
+msgstr "Правка"
+
+#: tegae(new)\Tegae.py:246 tegae(new)\Tegae.py:572 tegae(new)\Tegae.py:601
+msgid "Launch"
+msgstr "Запуск"
+
+#: tegae(new)\Tegae.py:249 tegae(new)\Tegae.py:573 tegae(new)\Tegae.py:602
+msgid "Plugins"
+msgstr "Плагины"
+
+#: tegae(new)\Tegae.py:253 tegae(new)\Tegae.py:564
+msgid "Settings"
+msgstr "Настройки"
+
+#: tegae(new)\Tegae.py:262
+msgid "Block / Unblock text input"
+msgstr "Заблокировать/разблокировать текстовый ввод"
+
+#: tegae(new)\Tegae.py:272
+msgid "Help"
+msgstr "Помощь"
+
+#: tegae(new)\Tegae.py:284
+msgid "Hide to background"
+msgstr "Скрыть в фон"
+
+#: tegae(new)\Tegae.py:286
+msgid "Options"
+msgstr "Опции"
+
+#: tegae(new)\Tegae.py:297
+msgid "Paste"
+msgstr "Вставить"
+
+#: tegae(new)\Tegae.py:346
+msgid "Save?"
+msgstr "Сохранить?"
+
+#: tegae(new)\Tegae.py:349
+msgid "No"
+msgstr "Нет"
+
+#: tegae(new)\Tegae.py:357
+msgid "file"
+msgstr "файл"
+
+#: tegae(new)\Tegae.py:358
+msgid "length: "
+msgstr "длина"
+
+#: tegae(new)\Tegae.py:359
+msgid "lines:"
+msgstr "строк:"
+
+#: tegae(new)\Tegae.py:362
+msgid "You are here now"
+msgstr "Вы сейчас здесь"
+
+#: tegae(new)\Tegae.py:362
+msgid "column"
+msgstr "столбец"
+
+#: tegae(new)\Tegae.py:365
+msgid "string"
+msgstr "строка"
+
+#: tegae(new)\Tegae.py:369
+msgid "character:"
+msgstr "символ:"
+
+#: tegae(new)\Tegae.py:380 tegae(new)\Tegae.py:417 tegae(new)\Tegae.py:433
+msgid "Saving"
+msgstr "Сохранение"
+
+#: tegae(new)\Tegae.py:398
+msgid "Opening"
+msgstr "Открытие"
+
+#: tegae(new)\Tegae.py:451
+msgid "Link"
+msgstr "Ссылка"
+
+#: tegae(new)\Tegae.py:477
+msgid "Character"
+msgstr "Символ"
+
+#: tegae(new)\Tegae.py:477
+msgid "String"
+msgstr "Строка"
+
+#: tegae(new)\Tegae.py:493
+msgid "Forward"
+msgstr "Далее"
+
+#: tegae(new)\Tegae.py:504
+msgid "Cancel"
+msgstr "Отменить"
+
+#Tegae++\Tegae.py
+msgid "editor"
+msgstr "редактор"
+
+#: tegae(new)\Tegae.py:572 tegae(new)\Tegae.py:601
+msgid "General"
+msgstr "Основные"
+
+#: tegae(new)\Tegae.py:581
+msgid "Close"
+msgstr "Закрыть"
+
+#: tegae(new)\Tegae.py:601
+msgid "New document"
+msgstr "Новый документ"
+
+#: tegae(new)\Tegae.py:617
+msgid "Language (changes will take effect after restarting app)"
+msgstr "Язык (изменения войдут в силу после перезагрузки приложения"
+
+#: tegae(new)\Tegae.py:634
+msgid "Play sound when the program starts"
+msgstr "Проигрывать звук при загрузки приложения"
+
+#: tegae(new)\Tegae.py:644
+msgid "File Path"
+msgstr "Путь к файлу"
+
+#: tegae(new)\Tegae.py:653
+msgid "Overview"
+msgstr "Обзор"
+
+#: tegae(new)\Tegae.py:665
+msgid "tab character"
+msgstr "Знак табуляции"
+
+#: tegae(new)\Tegae.py:667
+msgid "4 spaces"
+msgstr "4 пробела"
+
+#: tegae(new)\Tegae.py:667
+msgid "Tab"
+msgstr "Таб"
+
+#: tegae(new)\Tegae.py:674
+msgid "Repeat indent the previous line"
+msgstr "Повторять отступ предыдущей строки"
+
+#: tegae(new)\Tegae.py:689
+msgid "The default path"
+msgstr "Путь поумолчанию"
+
+#: tegae(new)\Tegae.py:700
+msgid "Extension by default"
+msgstr "Расширение поумолчанию"
+
+#: tegae(new)\Tegae.py:712
+msgid "Encoding by default"
+msgstr "Кодировка поумолчанию"
+
+#: tegae(new)\Tegae.py:734
+msgid "(Changes will take effect after restarting app)"
+msgstr "(Изменения войдут в силу после перезагрузки приложения"
+
+#: tegae(new)\Tegae.py:744 tegae(new)\Tegae.py:777
+msgid "Action"
+msgstr "Действие"
+
+#: tegae(new)\Tegae.py:753 tegae(new)\Tegae.py:787
+msgid "Combination"
+msgstr "Комбинация"
+
+#: tegae(new)\Tegae.py:763 tegae(new)\Tegae.py:844
+msgid "Delete"
+msgstr "Удалить"
+
+#: tegae(new)\Tegae.py:772
+msgid "New"
+msgstr "Новый"
+
+#: tegae(new)\Tegae.py:797
+msgid "Add"
+msgstr "Добавить"
+
+#: tegae(new)\Tegae.py:819
+msgid "Summary"
+msgstr "Описание"
+
+#: tegae(new)\Tegae.py:824
+msgid "Author"
+msgstr "Автор"
+
+#: tegae(new)\Tegae.py:829
+msgid "Version"
+msgstr "Версия"
+
+#: tegae(new)\Tegae.py:835
+msgid "Auto start"
+msgstr "Автозапуск"
+
+#: tegae(new)\Tegae.py:862
+msgid "You don't have plugins"
+msgstr "У вас не установлены плагины"
+
+#: tegae(new)\Tegae.py:961
+msgid "You must enter action and combination"
+msgstr "Вы должны ввести действие и комбинацию"
+
+#: tegae(new)\Tegae.py:968
+msgid "This combination is busy"
+msgstr "Эта комбинация занята"
+
+#: tegae(new)\plugins\__init__.py:26
+msgid "Do you want to install "
+msgstr "Вы хотите установить "
+
+#: tegae(new)\plugins\__init__.py:27
+msgid "Summary: "
+msgstr "Описание: "
+
+#: tegae(new)\plugins\__init__.py:28
+msgid "Author: "
+msgstr "Автор: "
+
+#: tegae(new)\plugins\__init__.py:29
+msgid "Version: "
+msgstr "Версия: "
+
+#: tegae(new)\plugins\__init__.py:30
+msgid "attention"
+msgstr "Внимание"
