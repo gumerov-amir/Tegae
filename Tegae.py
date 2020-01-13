@@ -381,7 +381,7 @@ class MenuBar(wx.MenuBar):
         )
         options_menu.Bind(
             wx.EVT_MENU, lambda evt: webbrowser.open(
-                f"locale\\{self.Tegae.user_data.lang}\\help.html"
+                f"https://gumerov-amir.github.io/tegae/{self.Tegae.user_data.language}.html"
             ),
             help_item
         )
