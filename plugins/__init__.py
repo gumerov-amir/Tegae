@@ -54,5 +54,5 @@ def install_plugin(file):
 
 def launch_plugin(Tegae, plugin_name):
     PluginTegae = type('PluginTegae', (), {'Tegae': 'Tegae'})
-    plugin = importlib.import_module(plugin_name, plugin_name)
+    plugin = importlib.import_module('.' + plugin_name, plugin_name)
     plugin.launch(PluginTegae)

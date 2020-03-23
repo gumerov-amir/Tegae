@@ -505,16 +505,16 @@ class MenuBar(wx.MenuBar):
         plugin.main()
 
     def hide_frame(self, evt=None):
-        self.frame.Hide()
+        self.Tegae.Frame.Hide()
         keyboard.wait(self.Tegae.hotkeys['id11_1'])
-        self.frame.Show()
+        self.Tegae.Frame.Show()
 
 
 class TextCtrl(wx.stc.StyledTextCtrl):
 
     def __init__(self, tegae, frame):
         wx.stc.StyledTextCtrl.__init__(
-            self, frame, -1,
+            self, frame, 13,
             pos=(0, frame.XY.GetHeight() // 10),
             size=(frame.XY.GetWidth(), int(frame.XY.GetHeight() * 0.9)),
             style=wx.TE_MULTILINE,
@@ -647,7 +647,7 @@ class GeneralSettings(wx.Panel):
         )
         langs_combobox.SetSelection(
             data.langs.index(
-                iso639.to_iso639_2(self.Tegae.user_data.lang)
+                iso639.to_iso639_2(self.Tegae.user_data.language)
             )
         )
         langs_combobox.Bind(wx.EVT_COMBOBOX, self.change_language)
